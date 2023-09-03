@@ -1,0 +1,24 @@
+body  {
+    background-image: url("https://www.blurb.com/blog/wp-content/uploads/2019/10/20190918_OctBlog_1920x1080_v1_WhatisaShortStory_01.jpg");
+} 
+
+
+
+h1{
+    color:blue;
+    text-align: center;
+    font-size: 60px;
+}
+
+form{
+text-align: center;
+font-size: 40px;
+}
+
+table, th, td {
+    border:1px solid white;
+    text-align: center;
+    font-size: 30px;
+    text-align-last: auto;
+    -webkit-text-stroke-width: 20;
+}
